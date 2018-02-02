@@ -24,7 +24,7 @@ https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%
  Original made by me(^^)<BR>
  JJENCODE is obfuscate technique for Javascript. This technique sometime use for Malicious activity like inject code to vulnerable web content. This signature is detect JJENCODEed test within HTTP stream. If you'd like to know the JJENCODE, see below.<br>
 jjencode demo
-http://utf-8.jp/public/jjencode.html
+http://utf-8.jp/public/jjencode.html<br>
 
 <li>CVE-2017-10271.zip<BR>
  https://github.com/papa-anniekey/CustomSignatures/raw/master/CVE-2017-10271.zip<br>
