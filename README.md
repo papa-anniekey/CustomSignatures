@@ -21,8 +21,7 @@ FOX-SRT - Suspicious - Possible Fragmented Cisco IKEisakmp Packet HeapSpray.zip
 
 <li>UDS-HTTPJavaScript obfuscated with jjencode detected.zip<BR>
 https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%20obfuscated%20with%20jjencode%20detected.zip
- Original made by me(^^)\ 
-
+ Original made by me(^^)<BR>
  JJENCODE is obfuscate technique for Javascript. This technique sometime use for Malicious activity like inject code to vulnerable web content. This signature is detect JJENCODEed test within HTTP stream. If you'd like to know the JJENCODE, see below.<br>
 jjencode demo
 http://utf-8.jp/public/jjencode.html
@@ -31,3 +30,5 @@ http://utf-8.jp/public/jjencode.html
  https://github.com/papa-anniekey/CustomSignatures/raw/master/CVE-2017-10271.zip<br>
  Original made by me(^^)<BR>
  Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Security). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.1.0 and 12.2.1.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.5 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).
+ 
+McAfee provided signature is existing but that URI condition is limited so caused F/N. 
