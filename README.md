@@ -21,7 +21,7 @@ FOX-SRT - Suspicious - Possible Fragmented Cisco IKEisakmp Packet HeapSpray.zip
 
 -------------------------------------------------------------------------------------
 
-UDS-HTTPJavaScript obfuscated with jjencode detected.zip
+UDS-HTTPJavaScript obfuscated with jjencode detected.zip<BR>
 https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%20obfuscated%20with%20jjencode%20detected.zip
  Original made by me(^^)\ 
 
