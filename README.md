@@ -16,7 +16,7 @@ https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Suspi
  
 I customised it(i.e. Add Severity as High) for McAfee NSP.
 FOX-SRT - Exploit - Possible Shellcode in Cisco IKEisakmp.zip
-FOX-SRT - Suspicious - Possible Fragmented Cisco IKEisakmp Packet HeapSpray.zip
+FOX-SRT - Suspicious - Possible Fragmented Cisco IKEisakmp Packet HeapSpray.zip<p>
 
 
 <li>UDS-HTTPJavaScript obfuscated with jjencode detected.zip<BR>
@@ -24,7 +24,7 @@ https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%
  Original made by me(^^)<BR>
  JJENCODE is obfuscate technique for Javascript. This technique sometime use for Malicious activity like inject code to vulnerable web content. This signature is detect JJENCODEed test within HTTP stream. If you'd like to know the JJENCODE, see below.<br>
 jjencode demo
-http://utf-8.jp/public/jjencode.html
+http://utf-8.jp/public/jjencode.html<P>
  
 
 <li>CVE-2017-10271.zip<BR>
