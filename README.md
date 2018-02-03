@@ -13,8 +13,10 @@ https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Explo
 
  Original is made by FOX-IT and NCC Group.
  https://gist.github.com/fox-srt/09401dfdfc15652b22956b9cc59f71cb
- 
+ FOX-SRT - Suspicious - Possible Fragmented Cisco IKE.zip<br>
+ FOX-SRT - Exploit - Possible Shellcode in Cisco IKE.zip<br>
 I customised it(i.e. Add Severity as High) for McAfee NSP version 9.1 or 8.3.
+
 
 <li>UDS-HTTPJavaScript obfuscated with jjencode detected.zip<BR>
 https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%20obfuscated%20with%20jjencode%20detected.zip
