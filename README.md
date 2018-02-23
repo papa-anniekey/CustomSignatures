@@ -38,6 +38,6 @@ McAfee provided signature is existing but that URI condition is limited so cause
  https://github.com/papa-anniekey/CustomSignatures/blob/master/CVE-2017-0199.zip<br>
  Original made by me(^^)<BR>
  Vulnerability in Windows API(Microsoft OLE URL Moniker) of Microsoft Office/Wordpad. 
- This vulnerabiluty caused Execute Arbitaly code from remote(RCE). McAfee provided a signature for this vulnerability but the condition is too limited. McAfee provided signature could detect only POC(Maybe). I tested it with other Malicios Samples download from somewhere then the result is "Detect" but the McAfee made signature is F/N. 
+ This vulnerabiluty lead to Execute Arbitaly code from remote(RCE). McAfee provided a signature for this vulnerability but the condition is too limited. McAfee provided signature could detect only POC(Maybe). I tested it with other Malicios Samples download from somewhere then the result is "Detect" but the McAfee made signature is F/N. 
 
 If you will use my custom McAfee NSP's Signatures, please keep in mind "Use at Own Risks".
