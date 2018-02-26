@@ -28,17 +28,18 @@ http://utf-8.jp/public/jjencode.html<P>
 
 <li>CVE-2017-10271.zip<BR>
  https://github.com/papa-anniekey/CustomSignatures/raw/master/CVE-2017-10271.zip<br>
- Original made by me(^^)<BR>
+Original made by me(^^)<BR>
  Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Security). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.1.0 and 12.2.1.2.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 7.5 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).
  
 McAfee provided signature is existing but that URI condition is limited so caused F/N. 
 
 
-<li>CVE-2017-0199.zip<BR>
+<s><li>CVE-2017-0199.zip<BR>
  https://github.com/papa-anniekey/CustomSignatures/blob/master/CVE-2017-0199.zip<br>
- Original made by me(^^)<BR>
+"This signature is now Under Developing, sorry"
+Original made by me(^^)<BR>
  Vulnerability in Windows API(Microsoft OLE URL Moniker) of Microsoft Office/Wordpad. 
  This vulnerabiluty is lead to Executeing arbitrary code from remote(RCE). 
-McAfee provided a signature for this vulnerability but the condition is too limited. McAfee provided signature could detect only POC(Maybe). I tested it with other Malicios Samples download from somewhere then the result is "Detect" but the McAfee made signature is F/N. 
+McAfee provided a signature for this vulnerability but the condition is too limited. McAfee provided signature could detect only POC(Maybe). I tested it with other Malicios Samples download from somewhere then the result is "Detect" but the McAfee made signature is F/N. </s>
 
 If you will use my custom McAfee NSP's Signatures, please keep in mind "Use at Own Risks".
