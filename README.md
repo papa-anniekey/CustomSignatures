@@ -24,7 +24,14 @@ https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%
  JJENCODE is obfuscate technique for Javascript. This technique sometime use for Malicious activity like inject code to vulnerable web content. This signature is detect JJENCODEed test within HTTP stream. If you'd like to know the JJENCODE, see below.<br>
 jjencode demo
 http://utf-8.jp/public/jjencode.html<P>
- 
+  
+
+<li>Javascript obfuscated with JSFUCK.zip<BR>
+https://github.com/papa-anniekey/CustomSignatures/blob/master/Javascript%20obfuscated%20with%20JSFUCK.zip
+ Original made by me(^^)<BR>
+ JSFUCK is obfuscate technique for Javascript. Obfuscated HavaScript is sometime use for Malicious activity like inject code to vulnerable web content. This signature tested within HTTP stream. If you'd like to know the JSFUCK, see below.<br>
+JSFuck
+http://www.jsfuck.com/<P>
 
 <li>CVE-2017-10271.zip<BR>
  https://github.com/papa-anniekey/CustomSignatures/raw/master/CVE-2017-10271.zip<br>
@@ -34,12 +41,13 @@ Original made by me(^^)<BR>
 McAfee provided signature is existing but that URI condition is limited so caused F/N. 
 
 
-<s><li>CVE-2017-0199.zip<BR>
- https://github.com/papa-anniekey/CustomSignatures/blob/master/CVE-2017-0199.zip<br>
-"This signature is now Under Developing, sorry"
-Original made by me(^^)<BR>
- Vulnerability in Windows API(Microsoft OLE URL Moniker) of Microsoft Office/Wordpad. 
- This vulnerabiluty is lead to Executeing arbitrary code from remote(RCE). 
-McAfee provided a signature for this vulnerability but the condition is too limited. McAfee provided signature could detect only POC(Maybe). I tested it with other Malicios Samples download from somewhere then the result is "Detect" but the McAfee made signature is F/N. </s>
-
+<li>malicious RTF Files include OLE2Link.zip<BR>
+ https://github.com/papa-anniekey/CustomSignatures/blob/master/malicious%20RTF%20Files%20include%20OLE2Link.zip<br>
+ Original made by me(^^)<BR>
+ Malicious RTF is embedded code associated with OLELink2 and ActiveX.
+ For example, CVE-2017-0199(Vulnerability in Windows API(Microsoft OLE URL Moniker) of Microsoft Office/Wordpad). 
+ McAfee provided a signature could detect but the condition is a little limited.
+ (Similer detection is "HTTP: Malformed Windows RTF File Transferring" by McAfee Original.)
+  
+ 
 If you will use my custom McAfee NSP's Signatures, please keep in mind "Use at Own Risks".
