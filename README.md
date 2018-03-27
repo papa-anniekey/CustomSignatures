@@ -7,16 +7,6 @@ My Threat Repo is below.<BR>
 https://otx.alienvault.com/user/papa_anniekey/pulses
 
 <HR>
-<li>CVE-2018-0101<BR>
-https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Suspicious%20-%20Possible%20Fragmented%20Cisco%20IKE.zip<br>
-https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Exploit%20-%20Possible%20Shellcode%20in%20Cisco%20IKE.zip<p>
-
- Original is made by FOX-IT and NCC Group.
- https://gist.github.com/fox-srt/09401dfdfc15652b22956b9cc59f71cb
- FOX-SRT - Suspicious - Possible Fragmented Cisco IKE.zip<br>
- FOX-SRT - Exploit - Possible Shellcode in Cisco IKE.zip<br>
-I customised it(i.e. Add Severity as High) for McAfee NSP version 9.1 or 8.3.
-
 
 <li>UDS-HTTPJavaScript obfuscated with jjencode detected.zip<BR>
 https://github.com/papa-anniekey/CustomSignatures/raw/master/UDS-HTTPJavaScript%20obfuscated%20with%20jjencode%20detected.zip
@@ -49,5 +39,15 @@ McAfee provided signature is existing but that URI condition is limited so cause
  McAfee provided a signature could detect but the condition is a little limited.
  (Similer detection is "HTTP: Malformed Windows RTF File Transferring" by McAfee Original.)
   
- 
+<li>CVE-2018-0101<BR>
+https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Suspicious%20-%20Possible%20Fragmented%20Cisco%20IKE.zip<br>
+https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Exploit%20-%20Possible%20Shellcode%20in%20Cisco%20IKE.zip<p>
+
+ Original is made by FOX-IT and NCC Group.
+ https://gist.github.com/fox-srt/09401dfdfc15652b22956b9cc59f71cb
+ FOX-SRT - Suspicious - Possible Fragmented Cisco IKE.zip<br>
+ FOX-SRT - Exploit - Possible Shellcode in Cisco IKE.zip<br>
+I customised it(i.e. Add Severity as High) for McAfee NSP version 9.1 or 8.3.
+
+
 If you will use my custom McAfee NSP's Signatures, please keep in mind "Use at Own Risks".
