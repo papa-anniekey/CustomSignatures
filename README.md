@@ -36,8 +36,8 @@ McAfee provided signature is existing but that URI condition is limited so cause
  Original made by me(^^)<BR>
  Malicious RTF is embedded code associated with OLELink2 and ActiveX.
  For example, CVE-2017-0199(Vulnerability in Windows API(Microsoft OLE URL Moniker) of Microsoft Office/Wordpad). 
- McAfee provided a signature could detect but the condition is a little limited.
- (Similer detection is "HTTP: Malformed Windows RTF File Transferring" by McAfee Original.)
+ McAfee provided a signature could detect but the condition is a little limited.<BR>
+ (Similer detection is "HTTP: Malformed Windows RTF File Transferring" by McAfee Original.)<P>
   
 <li>CVE-2018-0101<BR>
 https://github.com/papa-anniekey/CustomSignatures/raw/master/FOX-SRT%20-%20Suspicious%20-%20Possible%20Fragmented%20Cisco%20IKE.zip<br>
