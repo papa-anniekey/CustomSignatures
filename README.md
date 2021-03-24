@@ -8,6 +8,10 @@ https://otx.alienvault.com/user/papa_anniekey/pulses
 
 <HR>
 
+<li>UDS-HTTP F5 iControl REST unauthenticated RCE vulnerability(CVE-2021-22986).zip<BR>
+https://github.com/papa-anniekey/CustomSignatures/blob/master/UDS-HTTP%20F5%20iControl%20REST%20unauthenticated%20RCE%20vulnerability(CVE-2021-22986).zip
+ <P>
+
 <li>UDS-HTTP Liferay Portal Unauthenticated Remote code execution via JSONWS(CVE-2020-7961).zip<BR>
 https://github.com/papa-anniekey/CustomSignatures/blob/master/UDS-HTTP%20Liferay%20Portal%20Unauthenticated%20Remote%20code%20execution%20via%20JSONWS(CVE-2020-7961).zip
  Liferay is an open source web framework which is running onJBoss, Apache Tomcat, WebSphere and more enviroment. In Liferay Portal 7.2.0 and earlier contains a remote code execution (RCE) vulnerability via JSON web services (JSONWS). This signature can find an exploit communication in http traffic. There isn't official signature but attacks is under going.<P>
